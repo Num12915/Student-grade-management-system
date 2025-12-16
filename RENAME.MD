@@ -1,7 +1,5 @@
 # Student-grade-management-system
-Python student grade management system
-# Student-grade-management-system
-Python student grade management system.
+Python based system that allows users to manage student grades.
 
 ## Features
 - Add new students
