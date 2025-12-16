@@ -27,6 +27,8 @@ Add comments to Python file
 
 print("Welcome to the Student Grade Management System")
 
+## Author
+Created by Noor as part of university coursework.
 
 
 
