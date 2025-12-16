@@ -19,6 +19,12 @@ Add comments to functions
 print("\n--- Student Records ---")
 Improve output formatting
 
+# Student Grade Management System
+# This program allows users to add, update, and view student grades
+# Created as part of coursework
+
+Add comments to Python file
+
 
 
 
