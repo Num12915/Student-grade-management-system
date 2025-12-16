@@ -22,8 +22,6 @@ Improve output formatting
 # This program allows users to add, update, and view student grades
 # Created as part of coursework
 
-Add comments to Python file
-
 print("Welcome to the Student Grade Management System")
 
 ## Author
