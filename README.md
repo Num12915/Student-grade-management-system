@@ -13,5 +13,14 @@ Python student grade management system.
 ```bash
 python Student-grade-management-system.py
 
+# Function to add a new student
+Add comments to functions
+
+print("\n--- Student Records ---")
+Improve output formatting
+
+
+
+
 
 
