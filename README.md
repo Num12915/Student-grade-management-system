@@ -25,6 +25,10 @@ Improve output formatting
 
 Add comments to Python file
 
+print("Welcome to the Student Grade Management System")
+
+
+
 
 
 
